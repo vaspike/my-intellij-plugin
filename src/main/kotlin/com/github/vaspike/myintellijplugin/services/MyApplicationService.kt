@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.vaspike.myintellijplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.vaspike.myintellijplugin.MyBundle
 
 class MyApplicationService {
 
